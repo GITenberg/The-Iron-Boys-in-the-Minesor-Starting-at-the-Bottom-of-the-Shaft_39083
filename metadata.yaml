@@ -1,0 +1,24 @@
+_repo: The-Iron-Boys-in-the-Minesor-Starting-at-the-Bottom-of-the-Shaft_39083
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39083-h/images/iron1cover.jpg
+creator:
+  author:
+    agent_name: Mears, James R.
+    gutenberg_agent_id: '39762'
+    url: http://www.gutenberg.org/2009/agents/39762
+description: ''
+gutenberg_issued: '2012-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39083'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Iron mines and mining -- Juvenile fiction'
+title: The Iron Boys in the Mines; or, Starting at the Bottom of the Shaft
+url: http://www.gutenberg.org/ebooks/39083
